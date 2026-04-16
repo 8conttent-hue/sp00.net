@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "title": "Sobre Nós",
+    "description": "Conheça o SP00"
+  },
+  "hero": {
+    "title": "Sobre Nós",
+    "subtitle": "Ana Sabóia e Anna Kordiva são fotógrafas renomadas, reconhecidas por sua habilidade em capturar a essência da natureza e momentos pessoais. Com várias premiações, suas obras são um reflexo da paixão pela fotografia."
+  },
+  "content": "Nossa missão é inspirar através da fotografia, trazendo à tona a beleza do mundo ao nosso redor. Acreditamos que cada imagem deve contar uma história e provocar emoções.",
+  "mission": "Capturar a essência da vida em cada clique.",
+  "image": "/images/sobre.jpg",
+  "stats": [
+    {
+      "value": "500+",
+      "label": "Artigos"
+    },
+    {
+      "value": "100k+",
+      "label": "Leitores"
+    },
+    {
+      "value": "5",
+      "label": "Redatores"
+    }
+  ],
+  "team": []
+}

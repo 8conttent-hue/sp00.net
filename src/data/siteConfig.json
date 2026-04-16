@@ -1,0 +1,53 @@
+{
+  "name": "SP00",
+  "slug": "sp00.net",
+  "description": "Ana Sabóia Principais trabalhos e premiações Setembro de 2015 Vencedora do Meta Photo Contest, Edição #56 Melhor foto de capa para revista asiática, Edição #56 Julho de 2015 Premiação de melhor foto noturna para a revista “The luxury travel magazine”  Anna Kordiva Principais trabalhos e premiações Fevereiro de 2017 3 Lugar para melhor foto de por do sol “The time of photography” Setembro de 2017 Vencedora do prêmio melhor foto de natureza pela revista “Photoography”",
+  "url": "https://sp00.net",
+  "niche": "general",
+  "keywords": "Ana Saboia Principais trabalhos e premiacoes Setembro de 2015 Vencedora do Meta",
+  "email": "contato@sp00.net",
+  "palette": "gold",
+  "colors": {
+    "primary": "#ca8a04",
+    "accent": "#92400e",
+    "dark": "#451a03"
+  },
+  "headerContrast": "light",
+  "font": "poppins",
+  "fontFamily": "'Poppins', sans-serif",
+  "fontUrl": "https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap",
+  "components": {
+    "header": "Header-D",
+    "hero": "Hero-A",
+    "features": "Features-C",
+    "about": "About-H",
+    "posts": "Posts-J",
+    "footer": "Footer-I",
+    "sobre": "Sobre-J",
+    "contato": "Contato-F"
+  },
+  "menu": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Blog",
+      "href": "/blog"
+    },
+    {
+      "label": "Sobre",
+      "href": "/sobre"
+    },
+    {
+      "label": "Contato",
+      "href": "/contato"
+    }
+  ],
+  "social": {
+    "instagram": "",
+    "facebook": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}
